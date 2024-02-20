@@ -1,13 +1,4 @@
-<!--
-Autor: Tutorial Blogger
-Autor URL: https://blogspot.owinile.com/
-Licensia: Creative Commons Attribution 3.0 Unported
-Licensia URL: http://creativecommons.org/licenses/by/3.0/
-Referencia URL: https://www.zkreations.com/
-Referencia URL: http://www.ciudadblogger.com/
--->			
-
-<!-- ETIQUETAS DE DATOS GLOBALES EN BLOGGER --> 
+<!-- ETIQUETAS GLOBALES --> 
 
 <img expr:src='data:post.firstImageUrl'/> <!-- Primera imagen de la entrada -->	
 <img expr:src='data:post.featuredImage'/> <!-- Primera imagen de la entrada canvas.xml v1.9.0 -->	
